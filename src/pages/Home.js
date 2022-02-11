@@ -4,10 +4,8 @@ const Home = () => {
 
     return(
         <>
-        
-                    <p> HAHA </p>
-                    <Button label = "Button Label" />
-       
+            <p> HAHA </p>
+            <Button label = "Button Label" />
         </>
     );
 }
